@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<div class="header">
+  <h2>Personal Trip Blog</h2>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+  <div class="card">
+    <div class="card">
+      <h2>Golconda fort</h2>
+      <h5> Dec 10, 2017</h5>
+      <img class src= "https://www.fabhotels.com/blog/wp-content/uploads/2018/10/Golkonda-Fort.jpg" style="height:200px;"></div>
+      <p>My Experience about Golkonda fort..</p>
+      <p>Finally the day has arrived saw the worlds oldest fort. and i had a lot of experience on it and learned a lot about our history. The fort was originally built by Kakatiya ruler Pratāparudra in the 11th century out of mud walls.It is also thought that Kakatiya ruler Ganapatideva 1199–1262 built a stone hilltop outpost later known as Golconda fort to defend their western region.</p>
+    </div>
+    <div class="card">
+    <div class="card">
+      <h2>Rameswaram Temple</h2>
+      <h5> Sep 28, 2020</h5>
+      <img class src="https://thetravelshots.com/wp-content/uploads/2022/10/Rameshwaram-Temple-696x366.jpg" style="height:200px;"></div>
+      <p>My Experience on Rameswaram Temple..</p>
+      <p>It was a wonderful experience i had. It was very nostalgic moment for me and its one of my favourite gods. It is one of the twelve Jyotirlinga temples. It is one of the 275 Paadal Petra Sthalams, the sacred sites glorified by the Nayanars (Shaivite poet-saints), Appar, Sundarar, and Sambandar, with their songs.It was built by King Muthuramalinga  </p>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <img class src="https://static3.bigstockphoto.com/2/1/3/large1500/312082948.jpg" style="height:200px;"></div>
+      <p>I am Joshitha I love to Travel around and i am very exicted to adventure new thing at life</p>
+    </div>
+    <div class="card">
+    <div class="card">
+      <h3>Upcoming Trips</h3>
+      <img class src="https://globalgrasshopper.com/wp-content/uploads/2013/09/Wengen-1000x657.jpg" style="height:200px;"></div><br>
+      
+      <p>Switzerland</p>
+      
+      <div class="card">
+      <img class src="https://www.shrineyatra.com/wp-content/uploads/2021/05/Kedarnath-Dham-1024x678.jpeg" style="height:200px;"></div><br>
+      
+      <p>Kedarnath</p>
+    </div>
+    <div class="card">
+      <h3>Follow Me</h3>
+      <p>On Linkedin...</p>
+      <p>On Instagram...</p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+
+  <h2>The End </h2>
+  <p> of Personal Blog</p>
+</div>
+
+</body>
+</html>
