@@ -1,0 +1,75 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background-image:url("https://thumbs.dreamstime.com/b/feminine-pink-desktop-workspace-blog-header-overhead-flat-lay-theme-laptop-stylish-textured-background-top-view-hero-196463708.jpg");
+}
+
+
+.leftcolumn {   
+  float: left;
+  width: 75%;
+  background-image:url("");
+}
+
+
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+  background-image:url("");
+}
+
+
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+
+.card {
+   background-color:slateblue;
+   padding: 20px;
+   margin-top: 20px;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  
+}
+
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+  background-image:url("https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+    
+  }
+}
+</style>
